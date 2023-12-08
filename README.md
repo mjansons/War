@@ -1,10 +1,11 @@
 # War
 
 Requirements:
-_ Players 2<
-_ Cards 52
-_ Rank (high→low) A(14) K(13) Q(12) J(11) 10 9 8 7 6 5 4 3 2
-_ Suits Don't matter
+
+- Players 2<
+- Cards 52
+- Rank (high→low) A(14) K(13) Q(12) J(11) 10 9 8 7 6 5 4 3 2
+- Suits Don't matter
 
 Game flow:
 
