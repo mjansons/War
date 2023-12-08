@@ -1,11 +1,10 @@
 # War
 
 Requirements:
-Players 2
-Cards 52
-Deck French
-Rank (high→low) A(11) K(10) Q(10) J(10) 10 9 8 7 6 5 4 3 2
-Suits Don't matter
+_ Players 2<
+_ Cards 52
+_ Rank (high→low) A(14) K(13) Q(12) J(11) 10 9 8 7 6 5 4 3 2
+_ Suits Don't matter
 
 Game flow:
 
